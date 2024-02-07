@@ -101,27 +101,27 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
 ### At the end of the project, students will be able to;
 
-- demonstrate bash scripting skills using AWS CLI to upload the application files to S3 bucket.
+- Demonstrate bash scripting skills using AWS CLI to upload the application files to S3 bucket.
 
-- configure S3 buckets through Cloudformation.
+- Configure S3 buckets through Cloudformation.
 
-- configure ACM Certificate through Cloudformation.
+- Configure ACM Certificate through Cloudformation.
 
-- configure Cloudfront through Cloudformation.
+- Configure Cloudfront through Cloudformation.
 
-- configure Route 53 record set through Cloudformation.
+- Configure Route 53 record set through Cloudformation.
 
-- configure Cloudformation template to use AWS Resources.
+- Configure Cloudformation template to use AWS Resources.
 
-- use AWS Cloudformation Service to launch stacks.
+- Use AWS Cloudformation Service to launch stacks.
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+- Use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
   
 - Step 1: Download or clone project definition from `clarusway` repo on Github
 
-- Step 2: Create project folder for local public repo on your pc
+- Step 2: Create project folder for local public repo on your PC
 
 - Step 3: Prepare a cloudformation template to deploy your app
 
@@ -133,7 +133,7 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
 - Customize the application by hard-coding your name instead of `student_name` within `index.html`.
 
-- Nice to have >>>>  Upload object using CFN 
+- Nice to have >>>>  Upload object using CFN. 
 
 ## Resources
 
