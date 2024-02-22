@@ -1,10 +1,10 @@
 # Project-006 : Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation
 
-## Description
+## Description:
 
 Kittens Carousel is a static website application deployed on AWS Simple Storage Service (S3), served through Cloudfront and Route 53 using AWS Cloudformation Service.
 
-## Problem Statement
+## Problem Statement:
 
 ![Project_006](Project_006.png)
 
@@ -36,7 +36,7 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
       - The cloudfront distribution should default to `index.html`.
 
-      - HTTP version 2 should be employed.
+      - HTTP version.2 should be employed.
 
       - As cache behavior;
 
@@ -60,7 +60,7 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
   - The Application files should be uploaded to the application S3 bucket from local git repo using AWS CLI commands.
 
-## Project Skeleton
+## Project Skeleton:
 
 ```text
 006-kittens-carousel-static-web-s3-cf (folder)
@@ -75,29 +75,29 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
         |----cat2.jpg       # Given to the students (image file)
 ```
 
-## Expected Outcome
+## Expected Outcome:
 
 ![Project 101 : Kittens Carousel Application Snapshot](./project-006-snapshot.png)
 
-### At the end of the project, following topics are to be covered;
+### At the end of the project, following topics are to be covered:
 
-- Static Website Deployment
+- Static Website Deployment,
 
-- Bash scripting
+- Bash scripting,
 
-- AWS Simple Storage Service
+- AWS Simple Storage Service,
 
-- AWS Cloudfront Distribution
+- AWS Cloudfront Distribution,
 
-- AWS Certificate Manager
+- AWS Certificate Manager,
 
-- AWS Route 53 Service
+- AWS Route 53 Service,
 
-- AWS Cloudformation Service
+- AWS Cloudformation Service,
 
-- AWS Cloudformation Template Design
+- AWS Cloudformation Template Design,
 
-- Git & Github for Version Control System
+- Git & Github for Version Control System.
 
 ### At the end of the project, students will be able to;
 
@@ -117,25 +117,25 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
 - Use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
+## Steps to Solution:
   
-- Step 1: Download or clone project definition from `clarusway` repo on Github
+- Step 1: Download or clone project definition from `clarusway` repo on Github.
 
-- Step 2: Create project folder for local public repo on your PC
+- Step 2: Create project folder for local public repo on your PC.
 
-- Step 3: Prepare a cloudformation template to deploy your app
+- Step 3: Prepare a cloudformation template to deploy your app.
 
-- Step 4: Deploy your application on AWS Cloud using Cloudformation template
+- Step 4: Deploy your application on AWS Cloud using Cloudformation template.
 
-- Step 5: Upload your application files into S3 bucket from your local git repo
+- Step 5: Upload your application files into S3 bucket from your local git repo.
 
-## Notes
+## Notes:
 
 - Customize the application by hard-coding your name instead of `student_name` within `index.html`.
 
 - Nice to have >>>>  Upload object using CFN. 
 
-## Resources
+## Resources:
 
 - [AWS Cloudformation User Guide](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
 
